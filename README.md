@@ -50,4 +50,4 @@ pip install pyserial ttkthemes
 
 ## License
 
-This project is licensed under the mit license. see the [license](license.md) file for more details.
+This project is licensed under the mit license. see the [license](LICENSE.md) file for more details.
